@@ -6,9 +6,18 @@ ActivityIndicator,
 FlatList,
 Text,
 TouchableOpacity,
-Image
+Button,
+Alert,
+ImageBackground
 } from "react-native";
-import ContactsList from './ContactsList';
+import backImage from "./background.jpg"
+// const backImage = require('background.jpg');
+
+
+function Separator() {
+  return <View style={styles.separator} />;
+}
+
 export default class App extends React.Component {
 
 static navigationOptions = ({ navigation }) => {
@@ -22,11 +31,11 @@ constructor(props) {
  super(props);
  this.state = {
    loading: true,
-   dataSource:[]
+   dataSource:{}
   };
 }
 componentDidMount(){
-fetch("https://jsonplaceholder.typicode.com/photos")
+fetch("https://node-red-zcytl.eu-gb.mybluemix.net/hello-data")
 .then(response => response.json())
 .then((responseJson)=> {
   this.setState({
@@ -36,41 +45,37 @@ fetch("https://jsonplaceholder.typicode.com/photos")
 })
 .catch(error=>console.log(error)) //to catch the errors if any
 }
-FlatListItemSeparator = () => {
-return (
-  <View style={{
-     height: .5,
-     width:"100%",
-     backgroundColor:"rgba(0,0,0,0.5)",
-}}
-/>
-);
-}
-renderItem=(data)=>
-<TouchableOpacity style={styles.list}>
-
-<Text style={styles.lightText}>{data.item.title}</Text>
-<Image
-          style={{width: 80, height: 80,left:"80%", bottom:"50%"}}
-          source={{uri: data.item.url}}
-        />
-</TouchableOpacity>
+ ledOff = () => {
+  let url = 'https://node-red-zcytl.eu-gb.mybluemix.net/LED-off'
+  fetch(url)
+   .then(response => response.text())
+   .then(data => Alert.alert("LED is OFF now"));
+  }
+  ledOn = () => {
+    console.log('ledOn');
+    let url = 'https://node-red-zcytl.eu-gb.mybluemix.net/LED-on';
+     fetch(url)
+     .then(response => response.text())
+     .then(data => Alert.alert("LED is ON now"));
+    }
 render(){
- if(this.state.loading){
-  return( 
-    <View style={styles.loader}> 
-      <ActivityIndicator size="large" color="#0c9"/>
-    </View>
-)}
+  const temp = this.state.dataSource && this.state.dataSource;
+  var obj = "The current temperature is " + temp[Object.keys(temp)[0]];
 return(
  <View style={styles.container}>
- 
- <FlatList
-    data= {this.state.dataSource}
-    ItemSeparatorComponent = {this.FlatListItemSeparator}
-    renderItem= {item=> this.renderItem(item)}
-    keyExtractor= {item=>item.id.toString()}
- />
+   <ImageBackground source={backImage} style={styles.backgroundImage} >
+    <Text style={styles.lightText}>{obj}</Text>
+        <Separator />
+          <Button
+            title="LED ON"
+            onPress={() => this.ledOn()}
+          />
+            <Separator />
+          <Button
+            title="LED OFF"
+            onPress={() => this.ledOff()}
+          />
+        </ImageBackground>
 </View>
 )}
 }
@@ -98,5 +103,15 @@ const styles = StyleSheet.create({
     fontSize: 30,
     justifyContent: "center",
     alignItems: "center",
-   }
+    color: "white",
+   },
+   separator: {
+    marginVertical: 8,
+    borderBottomColor: '#737373',
+    borderBottomWidth: StyleSheet.hairlineWidth,
+  },
+  backgroundImage: {
+    flex: 1,
+    resizeMode: 'cover', // or 'stretch'
+  }
 });

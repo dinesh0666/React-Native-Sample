@@ -1,4 +1,4 @@
-#Wed Jun 19 19:36:25 IST 2019
-base.0=/var/www/html/helloWorld/android/app/build/intermediates/transforms/dexMerger/debug/0
+#Sun Jun 07 21:15:06 IST 2020
+base.0=/var/www/html/john/React-Native-Sample/android/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

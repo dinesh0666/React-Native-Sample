@@ -1,218 +1,218 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /var/www/html/helloWorld/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /var/www/html/helloWorld/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /var/www/html/helloWorld/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /var/www/html/helloWorld/android/app/src/main/AndroidManifest.xml:1:1-26:12
-MERGED from /var/www/html/helloWorld/android/app/src/main/AndroidManifest.xml:1:1-26:12
-MERGED from [:react-native-contacts] /var/www/html/helloWorld/node_modules/react-native-contacts/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-13:12
-MERGED from [com.facebook.react:react-native:0.59.9] /home/dinesh/.gradle/caches/transforms-2/files-2.1/db9886a39696c8753560d83557cff890/AndroidManifest.xml:2:1-13:12
-MERGED from [com.android.support:appcompat-v7:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/9bc375fb3fb1ed9699627784d1f4a682/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/779d7afb6d1dad154ae7b08aa7e88166/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/536fbe796c9c5db36fa449e99f82f925/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/a8dd8debee8c8bcd8bbe29eace57dd28/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/d4813ba15239ffab8f27459435a32a2b/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/29d1a03d491aee4cc0326a5c7182e699/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:loader:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/c8941063c10999299c4d9e3dec7aa0f0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:viewpager:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/5be620713ae4ec529b8e03528856eae7/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/edbde4516fefdbd9e6150da2282aaabd/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:drawerlayout:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/e57fe049ec8402a0982dd13426e65c8b/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/5333a23b52dde42fc66e68e690f9e723/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customview:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/1c7ace5a443afceba44ce81e922194fd/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/8b0e3f4b33946be7175c80d363d27655/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/4ec9e48deb766c32e92e1147c29e9f6f/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/79de00bb0ec59c752797a397e8e4d6a6/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:versionedparcelable:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/fe1766769af8c9596f2820cfc63ddc0a/AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:cursoradapter:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/9e461464559ff64a06bac8faa6ea3aa1/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/dinesh/.gradle/caches/transforms-2/files-2.1/0d6092352f71002a835506b450ef5376/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:documentfile:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/68b10db50a49a574c8363b3cd7f17d76/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/aca9dd16afdf1d1e7a73b9e1c0dfd445/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:print:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/c81125fc894fedcc98f3d2962691b899/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/dinesh/.gradle/caches/transforms-2/files-2.1/6870348a6f5e4fdf921fd38636449b39/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/dinesh/.gradle/caches/transforms-2/files-2.1/917cfbeb7524a3c7e5a789a359d2a9b6/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/dinesh/.gradle/caches/transforms-2/files-2.1/b564a2c8c13621e649a91eb0d8024d21/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] /home/dinesh/.gradle/caches/transforms-2/files-2.1/6cfc6d6acd617c5f97add5ea55dba037/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:interpolator:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/f0ff1feedc8a2681fc3542d63a4e7b95/AndroidManifest.xml:17:1-22:12
-MERGED from [com.facebook.fresco:fresco:1.10.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/1f026d09596334d636cbeb6175b155c2/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/f114f42c9e30c7ae4326cf2e062742fd/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:drawee:1.10.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/f5e4d505038353420a206e750179ea0a/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/60e5dfdf4aedd0839afb4999826744f5/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/d0364f1f8b0d084378b5f96c5deb2063/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.soloader:soloader:0.6.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/caf805e5a0f7d046cd38a42fbfef9a76/AndroidManifest.xml:2:1-13:12
-MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/bdfcd5f3cbf77411379a8b99bddec770/AndroidManifest.xml:2:1-9:12
-INJECTED from /var/www/html/helloWorld/android/app/src/debug/AndroidManifest.xml:2:1-8:12
-INJECTED from /var/www/html/helloWorld/android/app/src/debug/AndroidManifest.xml:2:1-8:12
-INJECTED from /var/www/html/helloWorld/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+ADDED from /var/www/html/john/React-Native-Sample/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /var/www/html/john/React-Native-Sample/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /var/www/html/john/React-Native-Sample/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /var/www/html/john/React-Native-Sample/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /var/www/html/john/React-Native-Sample/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-contacts] /var/www/html/john/React-Native-Sample/node_modules/react-native-contacts/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.react:react-native:0.59.9] /home/dckap/.gradle/caches/transforms-2/files-2.1/82132ea05e80b13047eecf392857a411/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/9d9e33abe12e184a19bc5711d3b9de19/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/a533085e1e3c4cb1810eb47ee40e18a4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/95c7f96ea23cd3a1a3bf88a6436ae6f0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/2a527995a53e19dabf9fc20724da08c4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/8d0f20c7e7549826feddc44bb9c11388/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/6e8ddd0aa4ac92727ca6f6a772ee0da0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/a0629e9e71cbe25506f182a1b615abd6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/e26ec6da42c8f5f0d681ff70b2f6590a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/0e4121cb131fe97e7658cca9834f287e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/c8b1fa0830a157348fa6b4fde5d10602/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/099f2e86dc2c3996554cfd13760441bc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/bb868964f821eae9aab33d279cc82c4c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/a32b131d76666a2d7668ea69bbb86063/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/b86ba2193c18678599d198813b1f10d7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/a097db970a93c1f26e1cf6f7270a61ec/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/e058a3574ad0dcb50478911c481d35d9/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/b216ffb556793f631aa3df3ede84d4dc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/dckap/.gradle/caches/transforms-2/files-2.1/053b9e7efb1d809a7089eaa5b2286720/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/82804082e47290ee952180a06f866c9a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/6f907ec9d5d6741024d5e1c4a05eb737/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/b5b437255222c5b52e36bb3eaa580b6b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/dckap/.gradle/caches/transforms-2/files-2.1/50a745eb16590c38c610e87c746e7d35/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/dckap/.gradle/caches/transforms-2/files-2.1/b36d463ded56aaaf8be788052cf4d9d5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/dckap/.gradle/caches/transforms-2/files-2.1/efd94f965caa50d53d033be4f8aceb3c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/dckap/.gradle/caches/transforms-2/files-2.1/dca950d615279c045ee40195891dc83e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/f4dcd0bb8a68fda5f7487575e28b446a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/96f6a3a450321d85faf6c03e259c728e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/7b8d6f618fa12b17edf97ae16f95f5f3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/0b51f5a7f12e114d5f2194a1d7ee3b82/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/630c25cac00095b6ce38a8d81fb7f117/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/a26e819289fad0caa57b9372e683deb1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/6d459cff508fc06d0b6850aa7818b753/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/105a9a995ea1c6ebca76e38f549e2a1a/AndroidManifest.xml:2:1-9:12
+INJECTED from /var/www/html/john/React-Native-Sample/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /var/www/html/john/React-Native-Sample/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /var/www/html/john/React-Native-Sample/android/app/src/debug/AndroidManifest.xml:2:1-8:12
 	package
-		ADDED from /var/www/html/helloWorld/android/app/src/main/AndroidManifest.xml:2:3-27
-		INJECTED from /var/www/html/helloWorld/android/app/src/main/AndroidManifest.xml
-		ADDED from /var/www/html/helloWorld/android/app/src/main/AndroidManifest.xml:2:3-27
-		INJECTED from /var/www/html/helloWorld/android/app/src/debug/AndroidManifest.xml
+		ADDED from /var/www/html/john/React-Native-Sample/android/app/src/main/AndroidManifest.xml:2:3-27
+		INJECTED from /var/www/html/john/React-Native-Sample/android/app/src/main/AndroidManifest.xml
+		ADDED from /var/www/html/john/React-Native-Sample/android/app/src/main/AndroidManifest.xml:2:3-27
+		INJECTED from /var/www/html/john/React-Native-Sample/android/app/src/debug/AndroidManifest.xml
 	android:versionName
-		INJECTED from /var/www/html/helloWorld/android/app/src/main/AndroidManifest.xml
-		ADDED from /var/www/html/helloWorld/android/app/src/main/AndroidManifest.xml:1:1-26:12
-		INJECTED from /var/www/html/helloWorld/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /var/www/html/john/React-Native-Sample/android/app/src/main/AndroidManifest.xml
+		ADDED from /var/www/html/john/React-Native-Sample/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /var/www/html/john/React-Native-Sample/android/app/src/debug/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /var/www/html/helloWorld/android/app/src/debug/AndroidManifest.xml:3:5-51
+		ADDED from /var/www/html/john/React-Native-Sample/android/app/src/debug/AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from /var/www/html/helloWorld/android/app/src/main/AndroidManifest.xml
-		ADDED from /var/www/html/helloWorld/android/app/src/main/AndroidManifest.xml:1:1-26:12
-		INJECTED from /var/www/html/helloWorld/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /var/www/html/john/React-Native-Sample/android/app/src/main/AndroidManifest.xml
+		ADDED from /var/www/html/john/React-Native-Sample/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /var/www/html/john/React-Native-Sample/android/app/src/debug/AndroidManifest.xml
 	xmlns:android
-		ADDED from /var/www/html/helloWorld/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /var/www/html/john/React-Native-Sample/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /var/www/html/helloWorld/android/app/src/main/AndroidManifest.xml:4:5-67
+ADDED from /var/www/html/john/React-Native-Sample/android/app/src/main/AndroidManifest.xml:4:5-67
 	android:name
-		ADDED from /var/www/html/helloWorld/android/app/src/main/AndroidManifest.xml:4:22-64
+		ADDED from /var/www/html/john/React-Native-Sample/android/app/src/main/AndroidManifest.xml:4:22-64
 application
-ADDED from /var/www/html/helloWorld/android/app/src/main/AndroidManifest.xml:6:5-24:19
-MERGED from /var/www/html/helloWorld/android/app/src/main/AndroidManifest.xml:6:5-24:19
-MERGED from /var/www/html/helloWorld/android/app/src/main/AndroidManifest.xml:6:5-24:19
-MERGED from [com.facebook.react:react-native:0.59.9] /home/dinesh/.gradle/caches/transforms-2/files-2.1/db9886a39696c8753560d83557cff890/AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.react:react-native:0.59.9] /home/dinesh/.gradle/caches/transforms-2/files-2.1/db9886a39696c8753560d83557cff890/AndroidManifest.xml:11:5-20
-MERGED from [com.android.support:support-compat:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/79de00bb0ec59c752797a397e8e4d6a6/AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:support-compat:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/79de00bb0ec59c752797a397e8e4d6a6/AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:versionedparcelable:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/fe1766769af8c9596f2820cfc63ddc0a/AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:versionedparcelable:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/fe1766769af8c9596f2820cfc63ddc0a/AndroidManifest.xml:22:5-23:19
-MERGED from [com.facebook.soloader:soloader:0.6.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/caf805e5a0f7d046cd38a42fbfef9a76/AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.soloader:soloader:0.6.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/caf805e5a0f7d046cd38a42fbfef9a76/AndroidManifest.xml:11:5-20
+ADDED from /var/www/html/john/React-Native-Sample/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /var/www/html/john/React-Native-Sample/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /var/www/html/john/React-Native-Sample/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.59.9] /home/dckap/.gradle/caches/transforms-2/files-2.1/82132ea05e80b13047eecf392857a411/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.9] /home/dckap/.gradle/caches/transforms-2/files-2.1/82132ea05e80b13047eecf392857a411/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/a097db970a93c1f26e1cf6f7270a61ec/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/a097db970a93c1f26e1cf6f7270a61ec/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/e058a3574ad0dcb50478911c481d35d9/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/e058a3574ad0dcb50478911c481d35d9/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/6d459cff508fc06d0b6850aa7818b753/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/6d459cff508fc06d0b6850aa7818b753/AndroidManifest.xml:11:5-20
 	android:appComponentFactory
-		ADDED from [com.android.support:support-compat:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/79de00bb0ec59c752797a397e8e4d6a6/AndroidManifest.xml:22:18-91
+		ADDED from [com.android.support:support-compat:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/a097db970a93c1f26e1cf6f7270a61ec/AndroidManifest.xml:22:18-91
 	android:label
-		ADDED from /var/www/html/helloWorld/android/app/src/main/AndroidManifest.xml:8:7-39
-		ADDED from /var/www/html/helloWorld/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /var/www/html/john/React-Native-Sample/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /var/www/html/john/React-Native-Sample/android/app/src/main/AndroidManifest.xml:8:7-39
 	tools:ignore
-		ADDED from /var/www/html/helloWorld/android/app/src/debug/AndroidManifest.xml:7:75-114
+		ADDED from /var/www/html/john/React-Native-Sample/android/app/src/debug/AndroidManifest.xml:7:75-114
 	android:roundIcon
-		ADDED from /var/www/html/helloWorld/android/app/src/main/AndroidManifest.xml:10:7-52
-		ADDED from /var/www/html/helloWorld/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /var/www/html/john/React-Native-Sample/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /var/www/html/john/React-Native-Sample/android/app/src/main/AndroidManifest.xml:10:7-52
 	tools:targetApi
-		ADDED from /var/www/html/helloWorld/android/app/src/debug/AndroidManifest.xml:7:54-74
+		ADDED from /var/www/html/john/React-Native-Sample/android/app/src/debug/AndroidManifest.xml:7:54-74
 	android:icon
-		ADDED from /var/www/html/helloWorld/android/app/src/main/AndroidManifest.xml:9:7-41
-		ADDED from /var/www/html/helloWorld/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /var/www/html/john/React-Native-Sample/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /var/www/html/john/React-Native-Sample/android/app/src/main/AndroidManifest.xml:9:7-41
 	android:allowBackup
-		ADDED from /var/www/html/helloWorld/android/app/src/main/AndroidManifest.xml:11:7-34
-		ADDED from /var/www/html/helloWorld/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /var/www/html/john/React-Native-Sample/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /var/www/html/john/React-Native-Sample/android/app/src/main/AndroidManifest.xml:11:7-34
 	android:theme
-		ADDED from /var/www/html/helloWorld/android/app/src/main/AndroidManifest.xml:12:7-38
-		ADDED from /var/www/html/helloWorld/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /var/www/html/john/React-Native-Sample/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /var/www/html/john/React-Native-Sample/android/app/src/main/AndroidManifest.xml:12:7-38
 	android:usesCleartextTraffic
-		ADDED from /var/www/html/helloWorld/android/app/src/debug/AndroidManifest.xml:7:18-53
+		ADDED from /var/www/html/john/React-Native-Sample/android/app/src/debug/AndroidManifest.xml:7:18-53
 	android:name
-		ADDED from /var/www/html/helloWorld/android/app/src/main/AndroidManifest.xml:7:7-38
-		ADDED from /var/www/html/helloWorld/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /var/www/html/john/React-Native-Sample/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /var/www/html/john/React-Native-Sample/android/app/src/main/AndroidManifest.xml:7:7-38
 activity#com.helloworld.MainActivity
-ADDED from /var/www/html/helloWorld/android/app/src/main/AndroidManifest.xml:13:7-22:18
+ADDED from /var/www/html/john/React-Native-Sample/android/app/src/main/AndroidManifest.xml:13:7-22:18
 	android:label
-		ADDED from /var/www/html/helloWorld/android/app/src/main/AndroidManifest.xml:15:9-41
+		ADDED from /var/www/html/john/React-Native-Sample/android/app/src/main/AndroidManifest.xml:15:9-41
 	android:windowSoftInputMode
-		ADDED from /var/www/html/helloWorld/android/app/src/main/AndroidManifest.xml:17:9-51
+		ADDED from /var/www/html/john/React-Native-Sample/android/app/src/main/AndroidManifest.xml:17:9-51
 	android:configChanges
-		ADDED from /var/www/html/helloWorld/android/app/src/main/AndroidManifest.xml:16:9-79
+		ADDED from /var/www/html/john/React-Native-Sample/android/app/src/main/AndroidManifest.xml:16:9-79
 	android:name
-		ADDED from /var/www/html/helloWorld/android/app/src/main/AndroidManifest.xml:14:9-37
+		ADDED from /var/www/html/john/React-Native-Sample/android/app/src/main/AndroidManifest.xml:14:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /var/www/html/helloWorld/android/app/src/main/AndroidManifest.xml:18:9-21:25
+ADDED from /var/www/html/john/React-Native-Sample/android/app/src/main/AndroidManifest.xml:18:9-21:25
 action#android.intent.action.MAIN
-ADDED from /var/www/html/helloWorld/android/app/src/main/AndroidManifest.xml:19:13-65
+ADDED from /var/www/html/john/React-Native-Sample/android/app/src/main/AndroidManifest.xml:19:13-65
 	android:name
-		ADDED from /var/www/html/helloWorld/android/app/src/main/AndroidManifest.xml:19:21-62
+		ADDED from /var/www/html/john/React-Native-Sample/android/app/src/main/AndroidManifest.xml:19:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /var/www/html/helloWorld/android/app/src/main/AndroidManifest.xml:20:13-73
+ADDED from /var/www/html/john/React-Native-Sample/android/app/src/main/AndroidManifest.xml:20:13-73
 	android:name
-		ADDED from /var/www/html/helloWorld/android/app/src/main/AndroidManifest.xml:20:23-70
+		ADDED from /var/www/html/john/React-Native-Sample/android/app/src/main/AndroidManifest.xml:20:23-70
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from /var/www/html/helloWorld/android/app/src/main/AndroidManifest.xml:23:7-84
+ADDED from /var/www/html/john/React-Native-Sample/android/app/src/main/AndroidManifest.xml:23:7-84
 	android:name
-		ADDED from /var/www/html/helloWorld/android/app/src/main/AndroidManifest.xml:23:17-81
+		ADDED from /var/www/html/john/React-Native-Sample/android/app/src/main/AndroidManifest.xml:23:17-81
 uses-sdk
-INJECTED from /var/www/html/helloWorld/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /var/www/html/helloWorld/android/app/src/main/AndroidManifest.xml
-INJECTED from /var/www/html/helloWorld/android/app/src/main/AndroidManifest.xml
-MERGED from [:react-native-contacts] /var/www/html/helloWorld/node_modules/react-native-contacts/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-contacts] /var/www/html/helloWorld/node_modules/react-native-contacts/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.59.9] /home/dinesh/.gradle/caches/transforms-2/files-2.1/db9886a39696c8753560d83557cff890/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.59.9] /home/dinesh/.gradle/caches/transforms-2/files-2.1/db9886a39696c8753560d83557cff890/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/9bc375fb3fb1ed9699627784d1f4a682/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/9bc375fb3fb1ed9699627784d1f4a682/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/779d7afb6d1dad154ae7b08aa7e88166/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/779d7afb6d1dad154ae7b08aa7e88166/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/536fbe796c9c5db36fa449e99f82f925/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/536fbe796c9c5db36fa449e99f82f925/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/a8dd8debee8c8bcd8bbe29eace57dd28/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/a8dd8debee8c8bcd8bbe29eace57dd28/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/d4813ba15239ffab8f27459435a32a2b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/d4813ba15239ffab8f27459435a32a2b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/29d1a03d491aee4cc0326a5c7182e699/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/29d1a03d491aee4cc0326a5c7182e699/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/c8941063c10999299c4d9e3dec7aa0f0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/c8941063c10999299c4d9e3dec7aa0f0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/5be620713ae4ec529b8e03528856eae7/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/5be620713ae4ec529b8e03528856eae7/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/edbde4516fefdbd9e6150da2282aaabd/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/edbde4516fefdbd9e6150da2282aaabd/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/e57fe049ec8402a0982dd13426e65c8b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/e57fe049ec8402a0982dd13426e65c8b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/5333a23b52dde42fc66e68e690f9e723/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/5333a23b52dde42fc66e68e690f9e723/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/1c7ace5a443afceba44ce81e922194fd/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/1c7ace5a443afceba44ce81e922194fd/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/8b0e3f4b33946be7175c80d363d27655/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/8b0e3f4b33946be7175c80d363d27655/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/4ec9e48deb766c32e92e1147c29e9f6f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/4ec9e48deb766c32e92e1147c29e9f6f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/79de00bb0ec59c752797a397e8e4d6a6/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/79de00bb0ec59c752797a397e8e4d6a6/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/fe1766769af8c9596f2820cfc63ddc0a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/fe1766769af8c9596f2820cfc63ddc0a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/9e461464559ff64a06bac8faa6ea3aa1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/9e461464559ff64a06bac8faa6ea3aa1/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/dinesh/.gradle/caches/transforms-2/files-2.1/0d6092352f71002a835506b450ef5376/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/dinesh/.gradle/caches/transforms-2/files-2.1/0d6092352f71002a835506b450ef5376/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/68b10db50a49a574c8363b3cd7f17d76/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/68b10db50a49a574c8363b3cd7f17d76/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/aca9dd16afdf1d1e7a73b9e1c0dfd445/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/aca9dd16afdf1d1e7a73b9e1c0dfd445/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/c81125fc894fedcc98f3d2962691b899/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/c81125fc894fedcc98f3d2962691b899/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/dinesh/.gradle/caches/transforms-2/files-2.1/6870348a6f5e4fdf921fd38636449b39/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/dinesh/.gradle/caches/transforms-2/files-2.1/6870348a6f5e4fdf921fd38636449b39/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/dinesh/.gradle/caches/transforms-2/files-2.1/917cfbeb7524a3c7e5a789a359d2a9b6/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/dinesh/.gradle/caches/transforms-2/files-2.1/917cfbeb7524a3c7e5a789a359d2a9b6/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/dinesh/.gradle/caches/transforms-2/files-2.1/b564a2c8c13621e649a91eb0d8024d21/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/dinesh/.gradle/caches/transforms-2/files-2.1/b564a2c8c13621e649a91eb0d8024d21/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] /home/dinesh/.gradle/caches/transforms-2/files-2.1/6cfc6d6acd617c5f97add5ea55dba037/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] /home/dinesh/.gradle/caches/transforms-2/files-2.1/6cfc6d6acd617c5f97add5ea55dba037/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/f0ff1feedc8a2681fc3542d63a4e7b95/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/f0ff1feedc8a2681fc3542d63a4e7b95/AndroidManifest.xml:20:5-44
-MERGED from [com.facebook.fresco:fresco:1.10.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/1f026d09596334d636cbeb6175b155c2/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fresco:1.10.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/1f026d09596334d636cbeb6175b155c2/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/f114f42c9e30c7ae4326cf2e062742fd/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/f114f42c9e30c7ae4326cf2e062742fd/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:1.10.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/f5e4d505038353420a206e750179ea0a/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:1.10.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/f5e4d505038353420a206e750179ea0a/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/60e5dfdf4aedd0839afb4999826744f5/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/60e5dfdf4aedd0839afb4999826744f5/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/d0364f1f8b0d084378b5f96c5deb2063/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/d0364f1f8b0d084378b5f96c5deb2063/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.soloader:soloader:0.6.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/caf805e5a0f7d046cd38a42fbfef9a76/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.soloader:soloader:0.6.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/caf805e5a0f7d046cd38a42fbfef9a76/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/bdfcd5f3cbf77411379a8b99bddec770/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/dinesh/.gradle/caches/transforms-2/files-2.1/bdfcd5f3cbf77411379a8b99bddec770/AndroidManifest.xml:5:5-7:41
-INJECTED from /var/www/html/helloWorld/android/app/src/debug/AndroidManifest.xml
-INJECTED from /var/www/html/helloWorld/android/app/src/debug/AndroidManifest.xml
+INJECTED from /var/www/html/john/React-Native-Sample/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /var/www/html/john/React-Native-Sample/android/app/src/main/AndroidManifest.xml
+INJECTED from /var/www/html/john/React-Native-Sample/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-contacts] /var/www/html/john/React-Native-Sample/node_modules/react-native-contacts/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-contacts] /var/www/html/john/React-Native-Sample/node_modules/react-native-contacts/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.9] /home/dckap/.gradle/caches/transforms-2/files-2.1/82132ea05e80b13047eecf392857a411/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.9] /home/dckap/.gradle/caches/transforms-2/files-2.1/82132ea05e80b13047eecf392857a411/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/9d9e33abe12e184a19bc5711d3b9de19/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/9d9e33abe12e184a19bc5711d3b9de19/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/a533085e1e3c4cb1810eb47ee40e18a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/a533085e1e3c4cb1810eb47ee40e18a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/95c7f96ea23cd3a1a3bf88a6436ae6f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/95c7f96ea23cd3a1a3bf88a6436ae6f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/2a527995a53e19dabf9fc20724da08c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/2a527995a53e19dabf9fc20724da08c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/8d0f20c7e7549826feddc44bb9c11388/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/8d0f20c7e7549826feddc44bb9c11388/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/6e8ddd0aa4ac92727ca6f6a772ee0da0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/6e8ddd0aa4ac92727ca6f6a772ee0da0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/a0629e9e71cbe25506f182a1b615abd6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/a0629e9e71cbe25506f182a1b615abd6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/e26ec6da42c8f5f0d681ff70b2f6590a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/e26ec6da42c8f5f0d681ff70b2f6590a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/0e4121cb131fe97e7658cca9834f287e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/0e4121cb131fe97e7658cca9834f287e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/c8b1fa0830a157348fa6b4fde5d10602/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/c8b1fa0830a157348fa6b4fde5d10602/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/099f2e86dc2c3996554cfd13760441bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/099f2e86dc2c3996554cfd13760441bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/bb868964f821eae9aab33d279cc82c4c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/bb868964f821eae9aab33d279cc82c4c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/a32b131d76666a2d7668ea69bbb86063/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/a32b131d76666a2d7668ea69bbb86063/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/b86ba2193c18678599d198813b1f10d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/b86ba2193c18678599d198813b1f10d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/a097db970a93c1f26e1cf6f7270a61ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/a097db970a93c1f26e1cf6f7270a61ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/e058a3574ad0dcb50478911c481d35d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/e058a3574ad0dcb50478911c481d35d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/b216ffb556793f631aa3df3ede84d4dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/b216ffb556793f631aa3df3ede84d4dc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/dckap/.gradle/caches/transforms-2/files-2.1/053b9e7efb1d809a7089eaa5b2286720/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/dckap/.gradle/caches/transforms-2/files-2.1/053b9e7efb1d809a7089eaa5b2286720/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/82804082e47290ee952180a06f866c9a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/82804082e47290ee952180a06f866c9a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/6f907ec9d5d6741024d5e1c4a05eb737/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/6f907ec9d5d6741024d5e1c4a05eb737/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/b5b437255222c5b52e36bb3eaa580b6b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/b5b437255222c5b52e36bb3eaa580b6b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/dckap/.gradle/caches/transforms-2/files-2.1/50a745eb16590c38c610e87c746e7d35/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/dckap/.gradle/caches/transforms-2/files-2.1/50a745eb16590c38c610e87c746e7d35/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/dckap/.gradle/caches/transforms-2/files-2.1/b36d463ded56aaaf8be788052cf4d9d5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/dckap/.gradle/caches/transforms-2/files-2.1/b36d463ded56aaaf8be788052cf4d9d5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/dckap/.gradle/caches/transforms-2/files-2.1/efd94f965caa50d53d033be4f8aceb3c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/dckap/.gradle/caches/transforms-2/files-2.1/efd94f965caa50d53d033be4f8aceb3c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/dckap/.gradle/caches/transforms-2/files-2.1/dca950d615279c045ee40195891dc83e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/dckap/.gradle/caches/transforms-2/files-2.1/dca950d615279c045ee40195891dc83e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/f4dcd0bb8a68fda5f7487575e28b446a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/f4dcd0bb8a68fda5f7487575e28b446a/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/96f6a3a450321d85faf6c03e259c728e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/96f6a3a450321d85faf6c03e259c728e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/7b8d6f618fa12b17edf97ae16f95f5f3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/7b8d6f618fa12b17edf97ae16f95f5f3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/0b51f5a7f12e114d5f2194a1d7ee3b82/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/0b51f5a7f12e114d5f2194a1d7ee3b82/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/630c25cac00095b6ce38a8d81fb7f117/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/630c25cac00095b6ce38a8d81fb7f117/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/a26e819289fad0caa57b9372e683deb1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/a26e819289fad0caa57b9372e683deb1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/6d459cff508fc06d0b6850aa7818b753/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/6d459cff508fc06d0b6850aa7818b753/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/105a9a995ea1c6ebca76e38f549e2a1a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/dckap/.gradle/caches/transforms-2/files-2.1/105a9a995ea1c6ebca76e38f549e2a1a/AndroidManifest.xml:5:5-7:41
+INJECTED from /var/www/html/john/React-Native-Sample/android/app/src/debug/AndroidManifest.xml
+INJECTED from /var/www/html/john/React-Native-Sample/android/app/src/debug/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /var/www/html/helloWorld/android/app/src/main/AndroidManifest.xml
-		INJECTED from /var/www/html/helloWorld/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /var/www/html/john/React-Native-Sample/android/app/src/main/AndroidManifest.xml
+		INJECTED from /var/www/html/john/React-Native-Sample/android/app/src/debug/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /var/www/html/helloWorld/android/app/src/main/AndroidManifest.xml
-		INJECTED from /var/www/html/helloWorld/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /var/www/html/john/React-Native-Sample/android/app/src/main/AndroidManifest.xml
+		INJECTED from /var/www/html/john/React-Native-Sample/android/app/src/debug/AndroidManifest.xml
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from /var/www/html/helloWorld/android/app/src/debug/AndroidManifest.xml:5:5-77
+ADDED from /var/www/html/john/React-Native-Sample/android/app/src/debug/AndroidManifest.xml:5:5-77
 	android:name
-		ADDED from /var/www/html/helloWorld/android/app/src/debug/AndroidManifest.xml:5:22-75
+		ADDED from /var/www/html/john/React-Native-Sample/android/app/src/debug/AndroidManifest.xml:5:22-75
 uses-permission#android.permission.READ_CONTACTS
-ADDED from [:react-native-contacts] /var/www/html/helloWorld/node_modules/react-native-contacts/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-72
+ADDED from [:react-native-contacts] /var/www/html/john/React-Native-Sample/node_modules/react-native-contacts/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-72
 	android:name
-		ADDED from [:react-native-contacts] /var/www/html/helloWorld/node_modules/react-native-contacts/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:22-69
+		ADDED from [:react-native-contacts] /var/www/html/john/React-Native-Sample/node_modules/react-native-contacts/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:22-69
